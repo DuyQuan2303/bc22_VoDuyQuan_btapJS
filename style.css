@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.showInfo{
+    background-color: red;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
